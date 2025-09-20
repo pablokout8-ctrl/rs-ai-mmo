@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Lumbridge Guide",
+    "combat_level": 3,
+    "hitpoints": 10,
+    "respawn_ticks": 10
+  },
+  {
+    "id": 2,
+    "name": "Goblin",
+    "combat_level": 5,
+    "hitpoints": 15,
+    "respawn_ticks": 12
+  }
+]
