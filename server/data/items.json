@@ -1,0 +1,23 @@
+[
+  {
+    "id": 4151,
+    "name": "Abyssal whip",
+    "equipment_slot": "weapon",
+    "attack_speed": 4,
+    "value": 120000
+  },
+  {
+    "id": 6585,
+    "name": "Amulet of fury",
+    "equipment_slot": "neck",
+    "attack_speed": null,
+    "value": 30000
+  },
+  {
+    "id": 995,
+    "name": "Coins",
+    "equipment_slot": null,
+    "stackable": true,
+    "value": 1
+  }
+]
